@@ -10,7 +10,6 @@
 
     <!-- vendor (msm8953) -->
     <project path="vendor/xiaomi/daisy" name="itsvixano-dev/proprietary_vendor_xiaomi_daisy" remote="gitlab" revision="lineage-20" />
-    <project path="vendor/xiaomi/ysl" name="itsvixano-dev/proprietary_vendor_xiaomi_ysl" remote="gitlab" revision="lineage-20" />
     <project path="vendor/xiaomi/msm8953-common" name="itsvixano-dev/proprietary_vendor_xiaomi_msm8953-common" remote="gitlab" revision="lineage-20" />
 
     <!-- device (msm8953) -->
